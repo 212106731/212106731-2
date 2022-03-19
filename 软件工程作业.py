@@ -1,4 +1,5 @@
 import requests
+
 import  time
 
 url='https://j1.pupuapi.com/client/product/storeproduct/detail/7c1208da-907a-4391-9901-35a60096a3f9/8775accd-a4cf-4b03-9748-40ca4dd12194'
